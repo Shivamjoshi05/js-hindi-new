@@ -21,7 +21,7 @@ let isloggedon = true
 // object 
 
 console.log(typeof"age");
-=======
+=======z
 // number => 2 to power 53
 //bigint 
 // string => ""
