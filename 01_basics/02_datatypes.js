@@ -7,8 +7,6 @@ console.log(3+3)
 let name = "shivam"
 let age = 18
 let isloggedon = true
-
-<<<<<<< HEAD
 // number => 2 to power 53
 //bigint 
 // string => ""
@@ -21,7 +19,6 @@ let isloggedon = true
 // object 
 
 console.log(typeof"age");
-=======z
 // number => 2 to power 53
 //bigint 
 // string => ""
@@ -35,7 +32,3 @@ console.log(typeof"age");
 
 console.log(typeof null);
 
-
-
-
->>>>>>> fa6319273107e944e62e5089717cd122ae93c8ab
