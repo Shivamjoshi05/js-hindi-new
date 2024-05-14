@@ -30,3 +30,10 @@ const myfunction = function (){
 }
 
 console.log(typeof myfunction);
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+
+// Stack (Primitive),Heap (Non-primitive) 
+
+let myname = "shiva"
+
